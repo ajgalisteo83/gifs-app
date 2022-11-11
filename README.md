@@ -31,3 +31,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Learned
+- Basic Agunlar Syntax
+- How to create an Angular Component
+- How to create an Angular Module
+- How to export and import Modules and Components
+- How to create an Angular Service
+- How to call an external API
+- How to use Local Storage
